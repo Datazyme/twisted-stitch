@@ -6,6 +6,7 @@ import useCart from "./(store)/store";
 import Modal from "./Modal";
 import { Mystery_Quest } from "next/font/google";
 
+//importing title font
 const mystery = Mystery_Quest({
   subsets: ["latin"],
   weight: ["400"]

@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
           {children}
         </div>
         <footer className="flex items-center flex-wrap justify-center border-t-2 border-solid border-black bg-rose-900 p-4">
-          <i className="fa-brands fa-square-instagram text-yellow-200 hover:text-slate-500 cursor-pointer text-2xl sm:text-3xl md:text-4xl"></i>
+          <i className="fa-brands fa-square-instagram bg-white w-full h-auto py-8 flex items-center justify-center gap-4 flex-wrap"></i>
         </footer>
         <div id="portal"></div>
       </body>

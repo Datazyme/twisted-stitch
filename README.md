@@ -1,3 +1,12 @@
+# Twisted Stitch
+
+## Overview
+A modern, responsive e-commerce knitware storefront designed for online shopping with a focus on payment integration and product presentation. Built using Next.js and Stripe and deployed on Vercel.
+
+!["View"](https://github.com/Datazyme/unitConverter/blob/master/docs/View.png)
+
+!["Conversion"](https://github.com/Datazyme/unitConverter/blob/master/docs/Conversion.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

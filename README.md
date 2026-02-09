@@ -3,6 +3,7 @@
 ## Overview
 A modern, responsive e-commerce knitware storefront designed for online shopping with a focus on payment integration and product presentation. Built using Next.js and Stripe and deployed on Vercel.
 
+## Screenshots
 !["FrontPage"](https://github.com/Datazyme/twisted-stitch/blob/master/public/images/FrontPage.png)
 
 !["Checkout"](https://github.com/Datazyme/twisted-stitch/blob/master/public/images/CartCheckout.png)
